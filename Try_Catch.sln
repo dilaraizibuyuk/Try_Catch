@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try_Catch", "Try_Catch\Try_Catch.csproj", "{EB4175D9-1545-4BFB-B8A8-8BB15F8421F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ornek2", "ornek2\ornek2.csproj", "{9F629519-85C9-4ED9-9CFD-D48BB6794DD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB4175D9-1545-4BFB-B8A8-8BB15F8421F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4175D9-1545-4BFB-B8A8-8BB15F8421F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4175D9-1545-4BFB-B8A8-8BB15F8421F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4175D9-1545-4BFB-B8A8-8BB15F8421F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F629519-85C9-4ED9-9CFD-D48BB6794DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F629519-85C9-4ED9-9CFD-D48BB6794DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F629519-85C9-4ED9-9CFD-D48BB6794DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F629519-85C9-4ED9-9CFD-D48BB6794DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB4FF314-8AC5-4805-A971-57925F671F15}
+	EndGlobalSection
+EndGlobal
